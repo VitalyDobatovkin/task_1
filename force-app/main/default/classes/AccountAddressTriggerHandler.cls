@@ -5,7 +5,7 @@ public with sharing class AccountAddressTriggerHandler {
 			// if(acc.Match_Billing_Address__c==true && acc.BillingPostalCode!=null) {
 			// 	acc.ShippingPostalCode =  acc.BillingPostalCode;
 			// }
-			System.debug();
+			System.debug('123');
 			System.debug();
 			System.debug();
 			System.debug();
