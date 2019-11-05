@@ -8,6 +8,8 @@ public with sharing class AccountAddressTriggerHandler {
 			System.debug();
 			System.debug();
 			System.debug();
+			System.debug();
+			System.debug();
 		}
 
 	}
