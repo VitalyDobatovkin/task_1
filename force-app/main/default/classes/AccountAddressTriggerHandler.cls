@@ -5,6 +5,8 @@ public with sharing class AccountAddressTriggerHandler {
 			
 			System.debug('commit');
 			System.debug('commit');
+			System.debug('commit');
+			System.debug('commit');
 			
 		}
 
